@@ -1,4 +1,15 @@
-
+<hr>
+<p align="center">
+    <h3 align = "center">🍀 Passionate Full-Stack Web Specialist 🍀</h3>
+    <p align="center">
+        ~~~ Thanks for reading ~~~<br>
+        Professional working attitude and an eye for details are my most notable attributes.<br>
+        I am a hardworking, highly proficient IT professional with 8 years’ experience and a real passion for web application development<br>
+        By working 5years, I've mastered web app and got extensive and deep knowledge of web.<br>
+        Being a talented and passionate developer with FULL-TIME AVAILABILITY, I love to work for a LONG-TERM relationship with reasonable clients.
+    </p>
+</p>
+<hr>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Senior Full Stack Engineer
