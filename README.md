@@ -20,10 +20,6 @@
   <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
 </p>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sunshine-Web-dev&row=3&column=8&layout=compact&title_color=63cda9&margin-w=15&margin-h=15"/>
-</p>
-
 ## Core Skills
 
 - 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Nuxt.js, Quasar
@@ -33,8 +29,8 @@
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
 - 📫 <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Solana, Rust
 
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=antero9471&column=7&theme=onedark"/>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sunshine-Web-dev&row=3&column=8&layout=compact&title_color=63cda9&margin-w=15&margin-h=15"/>
 </p>
 
 ## Languages & Tools
