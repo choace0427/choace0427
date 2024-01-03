@@ -73,34 +73,4 @@
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
-
-<summary> 😇 <b>My Github Stats</b>: </summary>
-<br> 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=antero9471&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=antero9471&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-    <img alt="antero9471's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=antero9471&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-    <img src = "profile-3d-contrib/profile-night-rainbow.svg">
-</p>
-</details>
-
-
-<div align="center">
-<h2>
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-  How to reach me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-</h2>
-<br />
-  
-  <a href="mailto:anteros.dev9471@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/N4xToiwT3Ken" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/antero9471" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/7VXaQtYGdV" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://antero-me.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
-  
 </div>
