@@ -22,12 +22,11 @@
 
 ## Core Skills
 
-- 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Nuxt.js, Quasar
-- 🔥 <b>BlockChain</b> : Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT
-- 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
-- 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django , Java / Spring
+- 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Nuxt.js, Angular, Alpine.js
+- 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite, Mantine, Chakra UI
+- 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Nest.js, Python / Django, Flask , Java / Spring
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- 📫 <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Solana, Rust
+- 📫 <b>Languages</b> : JavaScript, TypeScript, HTML5, CSS/SCSS/LESS, PHP, Python 
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Sunshine-Web-dev&row=3&column=8&layout=compact&title_color=63cda9&margin-w=15&margin-h=15"/>
