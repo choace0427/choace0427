@@ -25,8 +25,9 @@
 - 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Nuxt.js, Angular, Alpine.js
 - 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite, Mantine, Chakra UI
 - 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Nest.js, Python / Django, Flask , Java / Spring
-- 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- 📫 <b>Languages</b> : JavaScript, TypeScript, HTML5, CSS/SCSS/LESS, PHP, Python 
+- 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, AWS DynamoDB, Supabase, Firebase
+- 📫 <b>Languages</b> : JavaScript, TypeScript, HTML5, CSS/SCSS/LESS, PHP, Python
+- 👤 <b>Authentication</b> : Supabase, AWS Cognito, AWS Amplify, Clerk, Firebase, Oauth, NextAuth
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Sunshine-Web-dev&row=3&column=8&layout=compact&title_color=63cda9&margin-w=15&margin-h=15"/>
