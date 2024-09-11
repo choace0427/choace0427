@@ -26,7 +26,7 @@
 - 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite, Mantine, Chakra UI
 - 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Nest.js, Python / Django, Flask , Java / Spring
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, AWS DynamoDB, Supabase, Firebase
-- 📫 <b>Languages</b> : JavaScript, TypeScript, HTML5, CSS/SCSS/LESS, PHP, Python
+- 📫 <b>Languages</b> : JavaScript, TypeScript, HTML5, CSS/SCSS/LESS, PHP, Python, Brightscript
 - 👤 <b>Authentication</b> : Supabase, AWS Cognito, AWS Amplify, Clerk, Firebase, Oauth, NextAuth
 - 🧠 <b>AI</b> : AI chatbot, Image Generation, Machine Learning, OCR
 
